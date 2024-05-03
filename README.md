@@ -1,5 +1,5 @@
 # Library-Management-System-Database
-  Database creation and querying the sample queries in MySQL.
+Database creation and querying the sample queries in MySQL.
   
   The Library Management System project enables the effective administration of a library's operations. It has features for keeping track of books, clients, 
   staff, books being issued, and returns. The system, which uses SQL, keeps an extensive database of books together with information on their availability, 
@@ -11,7 +11,7 @@
       status, author, and publisher. 
    3. Customer Management: Maintain a record of library customers, including their names, addresses, registration dates, and issuance history. 
    4. Employee Management: Manage library staff, including employee names, positions, salaries, and branch assignments. 
-   5. Book Issuance and Returns: Track the issuance and return of books by customers. Monitor the status of issued books and ensure timely returns. 
+   5. Book Issuance and Returns: Track customers' issuance and return of books. Monitor the status of issued books and ensure timely returns. 
    6. Branch Management: Maintain information about library branches, including branch numbers, manager assignments, addresses, and contact details.
 
 
@@ -24,6 +24,6 @@ The project includes various SQL queries and data analysis tasks to extract valu
   5. Retrieve the employee names and their positions for the employees whose salaries are above Rs.50,000.
   6. List the customer names who registered before 2022-01-01 and have not issued any books yet.
   7. Display the branch numbers and the total count of employees in each branch.
-  8. Display the names of customers who have issued books in the month of June 2023.
+  8. Display the names of customers who have issued books on June 2023.
   9. Retrieve book titles from the book table containing the category history.
   10. Retrieve the branch numbers along with the count of employees for branches having more than 5 employees.
