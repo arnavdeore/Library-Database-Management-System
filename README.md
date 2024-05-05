@@ -1,5 +1,5 @@
 # Library-Management-System-Database
-  Database creation and querying the sample queries in MySQL.
+Database creation and querying the sample queries in MySQL.
   
 The Library Management System project enables the effective administration of a library's operations. It has features for keeping track of books, clients, 
 staff, books being issued, and returns. The system, which uses SQL, keeps an extensive database of books together with information on their availability, 
