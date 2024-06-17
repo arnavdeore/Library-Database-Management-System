@@ -5,7 +5,7 @@ The Library Management System project enables the effective administration of a 
 staff, books being issued, and returns. The system, which uses SQL, keeps an extensive database of books together with information on their availability, 
 rental price, and other relevant aspects. It also makes it possible to handle library patrons and staff members effectively.
 
-## Database setup and Features:
+## 📑Database setup and Features:
    1. Create a new database named "Library" to store the information.
    2. Book Management: Add, update, and remove books from the library's collection. Track book details such as title, category, rental price, availability
       status, author, and publisher. 
@@ -15,7 +15,7 @@ rental price, and other relevant aspects. It also makes it possible to handle li
    6. Branch Management: Maintain information about library branches, including branch numbers, manager assignments, addresses, and contact details.
 
 
-## Queries and Analysis 
+## ⁉️ Queries and Analysis 
 The project includes various SQL queries and data analysis tasks to extract valuable insights from the library's data. Some of the key queries implemented include:
   1. Retrieve the book title, category, and rental price of all available books.
   2. List the employee names and their respective salaries in descending order of salary.
