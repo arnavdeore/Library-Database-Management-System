@@ -13,7 +13,7 @@ rental price, and other relevant aspects. It also makes it possible to handle li
       status, author, and publisher. 
    3. Customer Management: Maintain a record of library customers, including their names, addresses, registration dates, and issuance history. 
    4. Employee Management: Manage library staff, including employee names, positions, salaries, and branch assignments. 
-   5. Book Issuance and Returns: Track customers' issuance and return of books. Monitors the status of issued books and ensure's timely returns. 
+   5. Book Issuance and Returns: Track customers' book issuance and return. Monitor the status of issued books and ensure timely returns. 
    6. Branch Management: Maintain information about library branches, including branch numbers, manager assignments, addresses, and contact details.
 
 ---
@@ -88,7 +88,7 @@ The project includes various SQL queries and data analysis tasks to extract valu
   3. Retrieve the book titles and the corresponding customers who have issued those books.
   4. Display the total count of books in each category.
   5. Retrieve the employee names and positions for the employees whose salaries are above Rs.50,000.
-  6. List the customer's name who registered before 2022-01-01 and Has not issued any books yet.
+  6. List the names of customers who registered before 2022-01-01 and Have not issued any books yet.
   7. Display the branch numbers and the total count of employees in each branch.
   8. Display the names of customers who have issued books on June 2023.
   9. Retrieve book titles from the book table containing the category history.
