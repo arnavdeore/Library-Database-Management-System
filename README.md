@@ -90,6 +90,6 @@ The project includes various SQL queries and data analysis tasks to extract valu
   5. Retrieve the employee names and positions for the employees whose salaries are above Rs.50,000.
   6. List the names of customers who registered before 2022-01-01 and Have not issued any books yet.
   7. Display the branch numbers and the total count of employees in each branch.
-  8. Display the names of customers who have issued books on June 2023.
+  8. Display the names of customers who have issued books in June 2023.
   9. Retrieve book titles from the book table containing the category history.
-  10. Retrieve the branch numbers along with the count of employees for branches having more than 5 employees.
+  10. Retrieve the branch numbers and the count of employees for branches with more than 5 employees.
