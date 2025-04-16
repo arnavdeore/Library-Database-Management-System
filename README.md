@@ -93,3 +93,5 @@ The project includes various SQL queries and data analysis tasks to extract valu
   8. Display the names of customers who have issued books in June 2023.
   9. Retrieve book titles from the book table containing the category history.
   10. Retrieve the branch numbers and the count of employees for branches with more than 5 employees.
+
+---
